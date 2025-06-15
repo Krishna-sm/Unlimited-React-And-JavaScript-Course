@@ -1,0 +1,50 @@
+
+==========================
+          Video 1
+==========================
+00:00 Introduction About Course
+02:35 Install Node js  & what is Node js
+11:00 what is npm and npx
+16:38 First JavaScript Program 
+19:20 installation of vs code and what is Vs Code 
+23:00 Variables & datatypes (let and Const & block scope)
+31:30 Operators  
+32:20 Arithmetic Operators
+38:00 airhtmic assignment operator
+38:28 Comparision Operators
+42:50 Logical Operator
+50:00 Ternary Operator
+52:40 Conditonal Statements
+58:08 do while loop
+01:01:38 While loop
+01:03:05 For loop
+01:04:41 Break & continue Statements
+01:06:20 Conclusion
+
+==========================
+          Video 2
+==========================
+
+00:00 Introduction Part 2
+00:45 Request for Review My Course
+01:20 Revision Operators , Variable, Conditonal Statements DPP
+02:30 Javascript Variables
+11:12 Javascript Conditonal Statement
+14:20 Javascript Operators
+16:23 Ternary Operator
+18:52 Loops
+21:23 Functions in Javascript (new Topic)
+25:27 function with Const keyword anonyms functions
+29:00 Paratermized functions
+30:00 Doc String Comment
+33:58 Props & Named paramter using object destrcuting
+37:00 Modules 
+38:32 import statement
+39:39 Export default keyword
+41:50 Export default
+44:20 return keyword
+46:17 Return Dead Code
+46:30 Arrow Function one line function
+48:00 Components Type Function for react js
+50:44 what is components
+51:00 conclusion about today class
