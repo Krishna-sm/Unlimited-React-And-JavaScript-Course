@@ -1,0 +1,16 @@
+@font-face {
+    font-family: JostBlack;
+    src: url(./Jost-Black.ttf);
+}
+@font-face {
+    font-family: JostBold;
+    src: url(./Jost-Bold.ttf);
+}
+@font-face {
+    font-family: JostMedium;
+    src: url(./Jost-Medium.ttf);
+}
+@font-face {
+    font-family: JostRegular;
+    src: url(./Jost-Regular.ttf);
+}

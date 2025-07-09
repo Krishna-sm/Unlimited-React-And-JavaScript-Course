@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn{
+    @apply w-full block text-center py-2 text-white rounded bg-black;
+}
